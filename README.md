@@ -1,8 +1,6 @@
-# gcp-hello-ml
+# flask_AI_app
 
-more stuff
 
-## Hello World.
 
 1. Create Project
 
